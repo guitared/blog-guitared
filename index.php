@@ -13,6 +13,7 @@
 </header>
 </body>
 <style>
+  body {width: 800px;}
 header {background: #ffcc00;}
 </style>
 </html>
